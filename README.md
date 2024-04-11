@@ -15,6 +15,7 @@ Hobby Site Setup
 | Activity | Estimate time |
 |----|----|
 |Buy the domain from porkbun, use the default options| 5 mins|
-|By the server from Hetzner, use the default options| 5 mins|
-|Perform the server[ base setup](base_setup.md)| 5mins|
+|By the server from Hetzner, use the default options| 5 mins |
+|Perform the server[ base setup](base_setup.md)| 5 mins |
 |[DNS Setup](dns.md) | 10 mins
+|Setup a [static web](static_web.md) site | 5 mins|
